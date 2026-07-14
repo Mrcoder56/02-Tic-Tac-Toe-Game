@@ -21,10 +21,11 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 
 ```
 tic-tac-toe/
-│── index.html
-│── style.css
-│── script.js
-└── README.md
+│── media
+│── readMe.md
+│── tictactoe.css
+│── tictactoe.html
+└── tictactoe.js
 ```
 
 ## 🎮 How to Play
