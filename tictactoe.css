@@ -16,7 +16,7 @@ h1{
 }
 
 .container{
-    height:70vh;
+    height:70.01vh;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -24,7 +24,7 @@ h1{
 
 .game{
     width:60vmin;
-    height:60vmin;
+    height:60.1vmin;
 
     display:flex;
     flex-wrap:wrap;
@@ -81,7 +81,7 @@ h1{
     justify-content:center;
     align-items:center;
 
-    gap:2rem;
+    gap:2.1rem;
 }
 
 .msg{
